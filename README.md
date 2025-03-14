@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @oliver-astell
-- 👀 I’m interested in @oliver-astell
-- 🌱 I’m currently learning @oliver-astell
-- 💞️ I’m looking to collaborate on @oliver-astell
-- 📫 How to reach me @oliver-astell
-- 😄 Pronouns: @oliver-astell
-- ⚡ Fun fact: @oliver-astell
+- 👋 Hi, I’m oliverastell
+- 👀 I’m interested in oliverastell
+- 🌱 I’m currently learning oliverastell
+- 💞️ I’m looking to collaborate on oliverastell
+- 📫 How to reach me oliverastell
+- 😄 Pronouns: oliverastell
+- ⚡ Fun fact: oliverastell
 
 <!---
 oliver-astell/oliver-astell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
